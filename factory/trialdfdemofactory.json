@@ -1,0 +1,9 @@
+{
+	"name": "trialdfdemofactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5cb46dc8-b129-46f6-a36d-3a0529abb3da",
+		"tenantId": "18946953-0902-400b-a299-544d686dce27"
+	}
+}
